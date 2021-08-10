@@ -26,7 +26,6 @@ function draw() {
   background(180);
 
   Engine.update(engine);
-
   // Title
   fill("#FFFF");
   textAlign("center");
